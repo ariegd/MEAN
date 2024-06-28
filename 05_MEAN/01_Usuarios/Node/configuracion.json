@@ -1,0 +1,5 @@
+{
+    "mongodb.url"     : "mongodb://localhost:27017",
+    "mongodb.esquema" : "esquema-tienda",
+    "http.puerto"     : 7000
+}
